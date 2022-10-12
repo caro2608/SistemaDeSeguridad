@@ -1,3 +1,8 @@
+//Integrantes Carolina Fernandez y Luis Fernando Lubo
+// Lab de Sistemas Digitales 
+//Tecnologia en Telematica
+
+
 
 #include <Keypad.h>
 #include <LiquidCrystal.h>
